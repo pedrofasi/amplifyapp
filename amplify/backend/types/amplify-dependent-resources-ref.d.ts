@@ -12,7 +12,7 @@ export type AmplifyDependentResourcesAttributes = {
         }
     },
     "api": {
-        "amplifyapp": {
+        "notesapp": {
             "GraphQLAPIIdOutput": "string",
             "GraphQLAPIEndpointOutput": "string"
         }
